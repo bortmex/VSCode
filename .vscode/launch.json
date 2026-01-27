@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\2.js-basic\\00\\app.js"
+            "program": "${workspaceFolder}\\3.js-basic\\3.9\\methodStr.js"
         }
     ]
 }
